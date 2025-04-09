@@ -1,0 +1,1 @@
+export const taskOptions = ["Refill", "Clean", "Repair"]
